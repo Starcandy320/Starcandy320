@@ -4,16 +4,6 @@
 - 개인 위키
 - 홈서버 동영상 호스팅
 
-
-
-
-
-
-
-
-
-
-
 <!--
 **Starcandy320/Starcandy320** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
