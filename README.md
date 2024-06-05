@@ -1,8 +1,5 @@
 # 2024년 만들어 보고 싶은것 🔭
-- 경량 노트 앱
-- 00년대 감성 웹페이지
-- 개인 위키
-- 홈서버 동영상 호스팅
+- CMS
 
 <!--
 **Starcandy320/Starcandy320** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
